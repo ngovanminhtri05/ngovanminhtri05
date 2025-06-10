@@ -7,8 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://triminh-portfolio.vercel.app/](https://triminh-portfolio.vercel.app/)
 
+- 💬 Ask me about **anything :)**
+
+- 📫 How to reach me **ngovanminhtri05@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.facebook.com/tri20m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tri minh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
